@@ -127,7 +127,7 @@ Please address the following points in your video:
 
 ## **Submission Guidelines**
 
-- **Deadline:** Please submit your markdown file, video, and any additional materials within 10 days.
+- **Deadline:** Please submit your markdown file, video, and any additional materials by the deadline communicated.
 
 - **Submission:**
 
@@ -180,24 +180,11 @@ This exercise is designed to:
 
     - [Markdown Guide](https://www.markdownguide.org/)
     - [Azure DevOps Wiki Markdown](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops)
-    - [GitHub Markdown Basics](https://guides.github.com/features/mastering-markdown/)
-
-  - **Video Recording Tools:**
-
-    - **Screen Recording Software:**
-
-      - **OBS Studio:** Free and open-source software for video recording and live streaming.
-      - **Camtasia:** A more advanced tool (paid) for recording and editing.
-      - **Loom:** Easy-to-use screen and video recording tool.
-
-    - **Tips for Recording:**
-
-      - [How to Record Your Screen](https://www.techsmith.com/blog/record-your-screen/)
-
+    
+ 
   - **Diagramming Tools:**
 
-    - [Diagrams.net (Draw.io)](https://app.diagrams.net/)
-    - [Mermaid.js Documentation](https://mermaid-js.github.io/mermaid/#/)
+     - [Mermaid.js Documentation](https://mermaid-js.github.io/mermaid/#/)
 
 - **Tips for Success:**
 
